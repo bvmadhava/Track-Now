@@ -1,14 +1,6 @@
-# 💼 JobFlow
+# 💼 TrackNow
 
-**JobFlow** is a full-stack job application tracker that helps users manage their job hunt with ease. Users can register, log in, and track job applications across different statuses like Applied, Interview, Offer, and Rejected — all in a clean and responsive UI.
-
----
-
-## 🔗 Live Demo
-
-👉 [Click here to view JobFlow](https://jobflow-demo.vercel.app)
-
----
+**TrackNow** is a full-stack job application tracker that helps users manage their job hunt with ease. Users can register, log in, and track job applications across different statuses like Applied, Interview, Offer, and Rejected — all in a clean and responsive UI.
 
 ---
 
